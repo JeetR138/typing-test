@@ -22,11 +22,6 @@ Welcome to **Typing Test**, a sleek, high-performance typing experience designed
 
 ---
 
-## 📸 Preview
-
-![Typing Test Screenshot](https://github.com/JeetR138/typing-test/assets/preview-placeholder)
-
----
 
 ## 📂 Project Structure
 typing-test/
